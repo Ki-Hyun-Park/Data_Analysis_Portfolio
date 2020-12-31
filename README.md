@@ -1,5 +1,5 @@
 # Data Analysis Portfolio
 ================
-박기현(Ki Hyun Park)
+머신러닝 프로젝트 포트폴리오 정리
 
 ***
