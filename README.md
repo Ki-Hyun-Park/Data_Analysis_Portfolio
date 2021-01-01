@@ -9,7 +9,6 @@
      <p>(1). 데이터 수집 <br/>
      - 수집대상 : NBA 경기기록 <br/>
      - 수집 출처 : Kaggle </p>
-*Kaggle 보러가기: [Kaggle](https://www.kaggle.com/c/fall-2019-stats-101c)*
 
      <p>(2). 데이터 전처리 <br/>
      - PCR을위해 반응 변수를 모두 0 혹은 1로 바꾼다(0 = 방문팀 승리 / 1 = 홈팀 승리). <br/>
@@ -26,6 +25,8 @@
      <p>(5). 피드백 <br/>
      - 모델링 및 예측 과정 자체에 관점을 두는것보다 데이터를 완벽히 분석하고 이해하는것이 더 정확한 예측 결과물을 만들수 있다. <br/>
      - 다중공선성 문제점을 해결하는게 얼마나 예측 결과물에 큰 변화를 줄수있는지 PCR 및 Ridge를 통해 알게됐다. </p>
+     
+*Kaggle 보러가기: [Kaggle](https://www.kaggle.com/c/fall-2019-stats-101c)*
      
 <img src="images/pred_accu.png" width="350" height="350" >
  
