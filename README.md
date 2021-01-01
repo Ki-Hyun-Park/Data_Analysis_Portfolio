@@ -8,7 +8,7 @@
 - Summary
      <p>(1). 데이터 수집 <br/>
      - 수집대상 : NBA 경기기록 <br/>
-     - 수집 출처 : [Kaggle](https://www.kaggle.com/c/fall-2019-stats-101c) </p>
+     - 수집 출처 : <p>[Kaggle](https://www.kaggle.com/c/fall-2019-stats-101c) </p>
 
      <p>(2). 데이터 전처리 <br/>
      - PCR을위해 반응 변수를 모두 0 혹은 1로 바꾼다(0 = 방문팀 승리 / 1 = 홈팀 승리). <br/>
