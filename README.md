@@ -75,12 +75,12 @@
        
 <div>
   <img style="vertical-align:middle" src="images/curri_comp_1.png" width="350" height="350" >
-  <span style="">Works.</span>
+  <span style=""></span>
 </div>
 
 <div>
   <img style="vertical-align:middle" src="images/curri_comp_2.png" width="350" height="350" >
-  <span style="">Works.</span>
+  <span style=""></span>
 </div> 
 
 
