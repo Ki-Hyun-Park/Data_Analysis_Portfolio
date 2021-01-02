@@ -5,8 +5,9 @@
 - Background
      <p>
      - 미국 내 모든 프로 농구팀을 팀 이름을 제외한 홈팀과 방문팀으로 설정했을때 (2000 - 2012)년 동안의 농구팀별 기록 데이터를 활용한 (2013 - 2014)년도 결과 예측 <br/>
-     - sfs </p>
- 
+     - 작업 인원수: 3명 <br/>
+     - 작업 기간: 3주 </p>
+     
 - Summary
      <p>(1). 데이터 수집 <br/>
      - 수집대상 : NBA 경기기록 <br/>
@@ -39,9 +40,10 @@
 # [Project 2: Curricular Complexity Project](https://github.com/Ki-Hyun-Park/Curricular_Complexity_Project)
 
 - Background
-
- <p>UCLA의 15개 전공을 대상으로 졸업까지 소요되는 수업 갯수 및 시간을 활용한 EDA 및 비교분석(“STEM 전공 vs Non-STEM 전공”) <br/>
-  
+     <p>
+     - UCLA의 15개 전공을 대상으로 졸업까지 소요되는 수업 갯수 및 시간을 활용한 EDA 및 비교분석(“STEM 전공 vs Non-STEM 전공”) <br/>
+     - 작업 인원수: 5명 <br/>
+     - 작업 기간: 약 3주 </p>
  
 - Summary
      <p>(1). 데이터 수집 <br/>
@@ -58,16 +60,17 @@
      <p>(3). 데이터 시각화 <br/>
      - STEM 전공과 Non-STEM 전공으로 나눴을때 평균(Hours, In/Out class, Longest paths, Bottlenecks)의 차이점 - 시각화 방법: 막대그래프 <br/>
      - STEM 전공과 Non-STEM 전공 분야로 나눈뒤 다시 각 분야에서 전공별로 분류했을때 Avg TTD의 차이점 - 시각화 방법: 막대그래프 <br/>
-     - 각 전공별 선행수업부터 마지막 상급과목까지의 구성을 보여주는 인터렉티브 네트워크 시각화 </p>
+     - 각 전공별 선행수업부터 마지막 상급과목까지의 구성을 보여주는 인터렉티브 네트워크 그래프 </p>
  
      <p>(4). 사용한 분석 툴 및 패키지 <br/>
-     - 툴 : R <br/>
+     - 툴 : R / Tableau <br/>
      - 패키지 : readxl, dplyr, stringr, dagitty, ggdag, visNetwork, rvest, tibble </p>
      
      <p>(5). 인사이트 <br/>
-     - 
+     - Avg TTD를 제외한 모든 변수에서 STEM 전공이 Non-STEM 전공보다 높은 수업량 및 시간을 요구했고 그중에서도 Hours가 가장 큰 차이를 나타냈다.</p> 
      
      <p>(6). 피드백 <br/>
+     - 
      - 모델링 및 예측 과정 자체에 관점을 두는것보다 데이터를 정확히 분석하고 이해하는것이 더 정확한 예측 결과물을 만들수 있다는걸. <br/>
      - 다중공선성 문제점을 해결하는게 얼마나 예측 결과물에 큰 변화를 줄수있는지 PCR 및 Ridge를 통해 알게됐다. </p>
 
