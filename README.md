@@ -58,9 +58,9 @@
      - 왜 course catalog의 zero를 없앤는지 jeremy에게 </p>
 
      <p>(3). 데이터 시각화 <br/>
-     - STEM 전공과 Non-STEM 전공으로 나눴을때 평균(Hours, In/Out class, Longest paths, Bottlenecks)의 차이점 - 시각화 방법: 막대그래프 <br/>
-     - STEM 전공과 Non-STEM 전공 분야로 나눈뒤 다시 각 분야에서 전공별로 분류했을때 Avg TTD의 차이점 - 시각화 방법: 막대그래프 <br/>
-     - 각 전공별 선행수업부터 마지막 상급과목까지의 구성을 보여주는 인터렉티브 네트워크 그래프 </p>
+     - STEM 전공과 Non-STEM 전공으로 나눴을때 평균(Hours, In/Out class, Longest paths, Bottlenecks)의 차이점(막대그래프) <br/>
+     - STEM 전공과 Non-STEM 전공 분야로 나눈뒤 다시 각 분야에서 전공별로 분류했을때 Avg TTD의 차이점(막대그래프) <br/>
+     - 각 전공별 첫 선행수업부터 마지막 상급과목까지의 구성(인터렉티브 네트워크 그래프) </p>
  
      <p>(4). 사용한 분석 툴 및 패키지 <br/>
      - 툴 : R / Tableau <br/>
