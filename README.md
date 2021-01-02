@@ -78,7 +78,7 @@
 <img align="left" src="images/curri_comp_1.png" width="350" height="350" > <br/>
 <img align="left" src="images/curri_comp_2.png" width="350" height="350" > </p>
 
-***
+<p>***</p>
 
  
 
