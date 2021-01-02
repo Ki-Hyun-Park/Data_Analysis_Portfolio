@@ -75,7 +75,7 @@
   
 *Kaggle Competition 보러가기: [Kaggle](https://www.kaggle.com/c/fall-2019-stats-101c)*
 
-<img align="left" src="images/curri_comp_1.png" width="350" height="350" >
+<img src="images/curri_comp_1.png" width="350" height="350" >
 
 ***
 
