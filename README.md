@@ -79,7 +79,7 @@
 </div>
 
 <div>
-  <img style="vertical-align:right" src="images/curri_comp_2.png" width="350" height="350" >
+  <img align: "left" style="vertical-align:right" src="images/curri_comp_2.png" width="350" height="350" >
   <span style=""></span>
 </div> 
 
