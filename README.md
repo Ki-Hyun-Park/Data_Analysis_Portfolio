@@ -74,7 +74,7 @@
        "수업 통과율" 변수를 적용했다면 더 정확한 분석을 할수 있었을 것이라고 생각한다. </p> 
        
   <img align="left" width="380" height="380" src="images/curri_comp_1.png">
-  <img width="380" height="380" src="images/curri_comp_2.png">
+  <img align="right" width="380" height="380" src="images/curri_comp_2.png">
 
 
 *** 
