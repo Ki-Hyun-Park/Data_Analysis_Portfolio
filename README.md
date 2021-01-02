@@ -52,7 +52,7 @@
      - 수집 출처 : UCLA </p>
 
      <p>(2). 데이터 전처리 <br/>
-     - EDA를위한 특정 변수 제작[Hours(졸업까지 소요되는 총 학점), Out class(선행수업 중 상급과목에 가장 많이 적용되는 갯수), In class(상급과목 중 가장 많은 선행수업을 요구하는 갯수),
+     - EDA를위한 특정 변수 제작 - [Hours(졸업까지 소요되는 총 학점), Out class(선행수업 중 상급과목에 가장 많이 적용되는 갯수), In class(상급과목 중 가장 많은 선행수업을 요구하는 갯수),
        Longest path(학기마다 연속적으로 들어야하는 수업 횟수), Bottlenecks(필요 선행수업이 3개 이상 요구되는 수업 갯수), Avg TTD(평균적으로 졸업까지 소요되는 학기 갯수),
        Stem(Yes = STEM 전공, No = Non-STEM 전공)] <br/>
      - 왜 course catalog의 zero를 없앤는지 jeremy에게 </p>
