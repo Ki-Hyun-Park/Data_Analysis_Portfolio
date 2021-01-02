@@ -3,7 +3,8 @@
 # [Project 1: 미국 프로농구 경기 승리 팀 예측(Kaggle Competition)](https://github.com/Ki-Hyun-Park/Kaggle_Competition)
 
 - Background
- <p>미국 내 모든 프로 농구팀을 팀 이름을 제외한 홈팀과 방문팀으로 설정했을때 (2000 - 2012)년 동안의 농구팀별 기록 데이터를 활용한 (2013 - 2014)년도 결과 예측</p>
+ <p> - 미국 내 모든 프로 농구팀을 팀 이름을 제외한 홈팀과 방문팀으로 설정했을때 (2000 - 2012)년 동안의 농구팀별 기록 데이터를 활용한 (2013 - 2014)년도 결과 예측 <br/>
+     - sfs
  
 - Summary
      <p>(1). 데이터 수집 <br/>
@@ -38,7 +39,8 @@
 
 - Background
 
- <p>UCLA의 15개 전공을 대상으로 졸업까지 소요되는 수업 갯수 및 시간을 활용한 EDA 및 비교분석(“STEM 전공 vs Non-STEM 전공”)</p>
+ <p>UCLA의 15개 전공을 대상으로 졸업까지 소요되는 수업 갯수 및 시간을 활용한 EDA 및 비교분석(“STEM 전공 vs Non-STEM 전공”) <br/>
+  
  
 - Summary
      <p>(1). 데이터 수집 <br/>
