@@ -76,10 +76,42 @@
   <img width="460" height="400" src="images/curri_comp_1.png">
   <img align="right" width="460" height="400" src="images/curri_comp_2.png">
 
-
 *** 
 
+# [Project 3: Blood Pressure Project](https://github.com/Ki-Hyun-Park/Blood_Pressure_Project)
 
+- Background
+     <p>
+     - 미국 내 모든 프로 농구팀을 팀 이름을 제외한 홈팀과 방문팀으로 설정했을때 (2000 - 2012)년 동안의 농구팀별 기록 데이터를 활용한 (2013 - 2014)년도 결과 예측 <br/>
+     - 작업 인원수: 3명 <br/>
+     - 작업 기간: 3주 </p>
+     
+- Summary
+     <p>(1). 데이터 수집 <br/>
+     - 수집대상 : NBA 경기기록 <br/>
+     - 수집 출처 : Kaggle </p>
+
+     <p>(2). 데이터 전처리 <br/>
+     - PCR을위한 반응 변수값 변환 (0 = 방문팀 승리 / 1 = 홈팀 승리). <br/>
+     - R의 is.na()를 통한 NA값 검토 <br/>
+     - 상자그림을 활용한 이상치 데이터 검토 <br/>
+     - 상관계수 행렬과 R의 dplyr 패키지를 통한 변수들의 예측 영향력 검토 및 해당 변수 추출 </p>
+
+     <p>(3). 데이터 모델링 <br/>
+     - 과적합을 피하기위한 기존 훈련 데이터 변환("75(훈련 데이터):25(테스트 데이터)" 비율) <br/>
+     - Lasso, LDA, Logistic, PCR, Ridge을 통한 모델링 및 결과 예측(Ridge가 가장낮은 RMSE 및 가장 높은 유사도 보유) </p>
+ 
+     <p>(4). 사용한 분석 툴 및 패키지 <br/>
+     - 툴 : R <br/>
+     - 패키지 : glmnet, dplyr, ggplot2, MASS, pls, lubridate, data.table </p>
+     
+     <p>(5). 피드백 <br/>
+     - 모델링 및 예측 과정 자체에 관점을 두는것보다 데이터를 완벽히 분석하고 이해하는것이 더 정확한 예측 결과물을 만들수있다. <br/>
+     - PCR 및 Ridge는 다중공선성 문제점을 해결할수있고 이점은 더 높은 유사도의 예측 결과물을 만들수있다. </p>
+     
+*The Islands 보러가기: [The Islands](https://islands.smp.uq.edu.au/)*
+     
+<img src="images/pred_accu.png" width="350" height="350" >
 
 
 
