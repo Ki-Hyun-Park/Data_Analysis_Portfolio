@@ -93,8 +93,8 @@
      <p>(2). 데이터 전처리 <br/>
      - 운동량 분류(High Level: 5km 달리기, Low Level: 달리지않고 20분동안 휴식) <br/>
      - 식생활 분류(High Level: 코카잎 500mg 복용, Low Level: 올리브 오일 500mg 복용) <br/>
-     - 블록(나이) 3 Levels: 16-35, 36-55, 56+ <br/>
-     - 블록(성별) 2 Levels: 남자, 여자 </p>
+     - 블록(나이) 3 Levels: 16-35(R에서 -1값으로 변환), 36-55(R에서 0값으로 변환) , 56+(R에서 1값으로 변환) <br/>
+     - 블록(성별) 2 Levels: 남자(R에서 1값으로 변환), 여자(R에서 -1값으로 변환) </p>
 
      <p>(3). 데이터 분석 <br/>
      - ANOVA(혈압 수치 ~ 운동량 x 식생활) <br/>
@@ -108,7 +108,7 @@
      
      <p>(5). 사용한 분석 툴 및 패키지 <br/>
      - 툴 : R <br/>
-     - 패키지 : glmnet, dplyr, ggplot2, MASS, pls, lubridate, data.table </p>
+     - 패키지 : pwr, data.table, nlme, tidyverse, dplyr, sjstats, phia, stats </p>
      
      <p>(6). 인사이트 <br/>
      - Avg TTD를 제외한 모든 변수에서 STEM 전공이 Non-STEM 전공보다 높은 수업량 및 시간을 요구했고 그중에서도 Hours가 가장 큰 차이를 나타냈다.</p>
