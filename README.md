@@ -122,7 +122,7 @@
 <img align="left" width="400" height="350" src="images/blood_press_1.png">
 <img align="right" width="400" height="350" src="images/blood_press_2.png">
 
-*** 
+
 
 
 
