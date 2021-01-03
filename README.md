@@ -91,8 +91,8 @@
      - 수집 출처 : The Islands </p>
 
      <p>(2). 데이터 전처리 <br/>
-     - 운동량 분류(High Level: 5km 달리기, Low Level: 달리지않고 20분동안 휴식) <br/>
-     - 식생활 분류(High Level: 코카잎 500mg 복용, Low Level: 올리브 오일 500mg 복용) <br/>
+     - 운동량 분류(Low Level: 달리지않고 20분동안 휴식, High Level: 5km 달리기) <br/>
+     - 식생활 분류(Low Level: 올리브 오일 500mg을 함유한 타블렛 복용, High Level: 코카잎 500mg 복용) <br/>
      - 블록(나이) 3 Levels: 16-35(R에서 -1값으로 변환), 36-55(R에서 0값으로 변환) , 56+(R에서 1값으로 변환) <br/>
      - 블록(성별) 2 Levels: 남자(R에서 1값으로 변환), 여자(R에서 -1값으로 변환) </p>
 
@@ -108,7 +108,7 @@
      
      <p>(5). 사용한 분석 툴 및 패키지 <br/>
      - 툴 : R <br/>
-     - 패키지 : pwr, data.table, nlme, tidyverse, dplyr, sjstats, phia, stats </p>
+     - 패키지 : tidyverse, pwr, sjstats, phia, kableExtra, knitcitations, bookdown </p>
      
      <p>(6). 인사이트 <br/>
      - 
