@@ -81,7 +81,7 @@
 
 - Background
      <p>
-     - The Islands(인터넷 가상 세계)에서 섬 주민들의 운동량과 식생활이 혈압 수치에 어떻게 영향을 미치는지 2x2 요인설계 및 블록(나이, 성별)을 사용한 분석 <br/>
+     - The Islands(인터넷 가상 세계)에서 섬 주민들에게 특정 운동과 음식물이 혈압에 어떻게 영향을 미치는지 확인하는 2x2 요인설계 및 블록(나이, 성별) 분석 <br/>
      - 작업 인원수: 7명 <br/>
      - 작업 기간: 약 3주 </p>
      
@@ -91,8 +91,9 @@
      - 수집 출처 : The Islands </p>
 
      <p>(2). 데이터 전처리 <br/>
-     - 운동량 분류(Low Level: 달리지않고 20분동안 휴식, High Level: 5km 달리기) <br/>
-     - 식생활 분류(Low Level: 올리브 오일 500mg을 함유한 타블렛 복용, High Level: 코카잎 500mg 복용) <br/>
+     - 혈압 수치: 운동량/음식물을 받기전 혈압 수치 - 받은후 혈압 수치
+     - 운동량(Low Level: 달리지않고 20분동안 휴식, High Level: 5km 달리기) <br/>
+     - 음식물(Low Level: 올리브 오일 500mg을 함유한 타블렛 복용, High Level: 코카잎 500mg 복용) <br/>
      - 블록(나이) 3 Levels: 16-35(R에서 -1값으로 변환), 36-55(R에서 0값으로 변환) , 56+(R에서 1값으로 변환) <br/>
      - 블록(성별) 2 Levels: 남자(R에서 1값으로 변환), 여자(R에서 -1값으로 변환) </p>
 
@@ -122,12 +123,3 @@
      
 <img align="left" width="420" height="310" src="images/blood_press_1.png">
 <img align="right" width="420" height="370" src="images/blood_press_2.png">
-
-
-
-
-
-
-
-
-
