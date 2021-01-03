@@ -1,6 +1,6 @@
-# Data Analysis Portfolio - 박기현(Ki Hyun Park) 
+# Data Analysis Portfolio - 박기현 (Ki Hyun Park) 
 ***
-# [Project 1: 미국 프로농구 경기 승리 팀 예측(Kaggle Competition)](https://github.com/Ki-Hyun-Park/Kaggle_Competition)
+# [Project 1: 미국 프로농구 경기 승리 팀 예측 (Kaggle Competition)](https://github.com/Ki-Hyun-Park/Kaggle_Competition)
 
 - Background
      <p>
