@@ -119,8 +119,8 @@
      
 *The Islands 보러가기: [The Islands](https://islands.smp.uq.edu.au/)*
      
-<img align="right" width="400" height="400" src="images/blood_press_1.png">
-<img width="400" height="400" src="images/blood_press_2.png">
+<img align="left" width="430" height="400" src="images/blood_press_1.png">
+<img width="430" height="400" src="images/blood_press_2.png">
 
 *** 
 
