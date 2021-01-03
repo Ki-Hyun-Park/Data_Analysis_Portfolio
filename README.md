@@ -111,6 +111,7 @@
      - 패키지 : pwr, data.table, nlme, tidyverse, dplyr, sjstats, phia, stats </p>
      
      <p>(6). 인사이트 <br/>
+     - 
      - Avg TTD를 제외한 모든 변수에서 STEM 전공이 Non-STEM 전공보다 높은 수업량 및 시간을 요구했고 그중에서도 Hours가 가장 큰 차이를 나타냈다.</p>
      
      <p>(7). 피드백 <br/>
