@@ -73,8 +73,10 @@
      <p>(6). 피드백 <br/>
      - 대부분의 STEM 전공은 학기마다 연속적으로 들어야 하는 선행과목 및 상급 과목이 많고 특정된 학기에만 들을 수 있는 수업들이 많다. 수업 하나를 통과하지 못하면 1년을 기다려야 할 수도 있기에 추가적인 변수로
        "수업 통과율" 변수를 적용했다면 더 정확한 분석을 할 수 있었을 것으로 생각한다. </p> 
-       
-  <img align="center" width="390" height="370" src="images/curri_comp_1.png">
+
+<p align="center">  
+  <img width="390" height="370" src="images/curri_comp_1.png">
+</p>
 
 *** 
 
@@ -121,5 +123,7 @@
        생각한다. </p>
      
 *The Islands 보러가기: [The Islands](https://islands.smp.uq.edu.au/)*
-     
-<img align="center" width="390" height="280" src="images/blood_press_1.png">
+
+<p align="center"> 
+  <img width="390" height="280" src="images/blood_press_1.png">
+</p>
