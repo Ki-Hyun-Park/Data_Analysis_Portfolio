@@ -34,7 +34,7 @@
 *Kaggle Competition 보러가기: [Kaggle](https://www.kaggle.com/c/fall-2019-stats-101c)*
      
 <p align="center">
-  <img width="350" height="350" src="images/pred_accu.png">
+  <img width="400" height="400" src="images/pred_accu.png">
 </p>     
  
 ***
@@ -75,7 +75,7 @@
        "수업 통과율" 변수를 적용했다면 더 정확한 분석을 할 수 있었을 것으로 생각한다. </p> 
 
 <p align="center">  
-  <img width="390" height="370" src="images/curri_comp_1.png">
+  <img width="400" height="400" src="images/curri_comp_1.png">
 </p>
 
 *** 
@@ -125,5 +125,5 @@
 *The Islands 보러가기: [The Islands](https://islands.smp.uq.edu.au/)*
 
 <p align="center"> 
-  <img width="390" height="280" src="images/blood_press_1.png">
+  <img width="400" height="300" src="images/blood_press_1.png">
 </p>
