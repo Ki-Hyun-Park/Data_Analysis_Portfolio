@@ -33,7 +33,7 @@
      
 *Kaggle Competition 보러가기: [Kaggle](https://www.kaggle.com/c/fall-2019-stats-101c)*
      
-<img align="center" src="images/pred_accu.png" width="350" height="350" >
+<img align="middle" src="images/pred_accu.png" width="350" height="350" >
  
 ***
 
