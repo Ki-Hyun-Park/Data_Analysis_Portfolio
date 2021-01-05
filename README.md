@@ -52,9 +52,7 @@
      - 수집 출처 : UCLA </p>
 
      <p>(2). 데이터 전처리 <br/>
-     - EDA 및 비교분석을 위한 특정 변수 제작 : Hours (졸업까지 소요되는 총 학점), Out class (선행수업 중 상급 과목에 가장 많이 적용되는 개수), In class (상급 과목 중 가장 많은 선행수업을 요구하는 개 
-       수), Longest path (학기마다 연속적으로 들어야 하는 수업 횟수), Bottlenecks (필요 선행수업이 3개 이상 요구되는 수업 개수), Avg TTD (평균적으로 졸업까지 소요되는 학기 개수), Stem (Yes =   
-       STEM 전공, No = Non-STEM 전공) </p>
+     - EDA 및 비교분석을 위한 특정 변수 제작 : Hours (졸업까지 소요되는 총 학점), Out class (선행수업 중 상급 과목에 가장 많이 적용되는 개수), In class (상급 과목 중 가장 많은 선행수업을 요구하는            개수), Longest path (학기마다 연속적으로 들어야 하는 수업 횟수), Bottlenecks (필요 선행수업이 3개 이상 요구되는 수업 개수), Avg TTD (평균적으로 졸업까지 소요되는 학기 개수),                      Stem (Yes = STEM 전공, No = Non-STEM 전공) </p>
 
      <p>(3). 데이터 시각화 <br/>
      - STEM 전공과 Non-STEM 전공으로 나눴을 때 평균 (Hours, In/Out class, Longest paths, Bottlenecks)의 차이점 (막대그래프) <br/>
